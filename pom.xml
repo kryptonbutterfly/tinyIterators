@@ -8,11 +8,18 @@
 	
 	<distributionManagement>
 		<repository>
-			<id>github_tiny_iterators</id>
+			<id>github</id>
 			<name>GitHub tinycodecrank Apache Maven Packages</name>
-			<url>https://maven.pkg.github.com/tinycodecrank/tinyIterators</url>
+			<url>https://maven.pkg.github.com/tinycodecrank/maven-repo</url>
 		</repository>
 	</distributionManagement>
+	
+	<repositories>
+		<repository>
+			<id>github</id>
+			<url>https://maven.pgk.github.com/tinycodecrank/maven-repo</url>
+		</repository>
+	</repositories>
 	
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
