@@ -1,4 +1,4 @@
-module de.tinycodecrank.Iterator
+module kryptonbutterfly.Iterator
 {
-	exports de.tinycodecrank.iterator;
+	exports kryptonbutterfly.iterator;
 }

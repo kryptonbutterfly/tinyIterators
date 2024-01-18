@@ -1,4 +1,4 @@
-package de.tinycodecrank.iterator;
+package kryptonbutterfly.iterator;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;
